@@ -5,7 +5,7 @@
 Copy script to your server:
 
 ```bash
-wget https://github.com/Xaqron/tor-private-bridge/blob/master/ubuntu-server-16.04.3-LTS.sh -O tor-bridge.sh
+wget https://raw.githubusercontent.com/Xaqron/tor-private-bridge/master/ubuntu-server-16.04.3-LTS.sh -O tor-bridge.sh
 ```
 
 ## Usage Example
