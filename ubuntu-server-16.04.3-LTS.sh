@@ -1,4 +1,12 @@
-#!/bin/sh
+#!/usr/bin/env bash
+
+#=================================================
+#title           :Tor bridge installer
+#description     :Installs a private Tor bridge
+#author	    	 :Xaqron
+#date            :20180416
+#version         :1.0.0
+#=================================================
 
 echo Checking root privilege...
 if [[ $EUID -ne 0 ]]; then
